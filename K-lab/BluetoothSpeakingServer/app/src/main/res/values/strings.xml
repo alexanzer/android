@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothSpeakingServer</string>
+    <string name="speach_button_display">Speach</string>
+</resources>
